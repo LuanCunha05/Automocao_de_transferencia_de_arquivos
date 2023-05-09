@@ -1,0 +1,8 @@
+C:\Users\03461471232\source\repos\Automacao\Automacao\bin\Debug\Automacao.exe.config
+C:\Users\03461471232\source\repos\Automacao\Automacao\bin\Debug\Automacao.exe
+C:\Users\03461471232\source\repos\Automacao\Automacao\bin\Debug\Automacao.pdb
+C:\Users\03461471232\source\repos\Automacao\Automacao\obj\Debug\Automacao.csproj.AssemblyReference.cache
+C:\Users\03461471232\source\repos\Automacao\Automacao\obj\Debug\Automacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\03461471232\source\repos\Automacao\Automacao\obj\Debug\Automacao.csproj.CoreCompileInputs.cache
+C:\Users\03461471232\source\repos\Automacao\Automacao\obj\Debug\Automacao.exe
+C:\Users\03461471232\source\repos\Automacao\Automacao\obj\Debug\Automacao.pdb
