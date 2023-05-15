@@ -1,2 +1,2 @@
 # File_Transfer_Automation
-Automation for transferring files from one directory to another, running every hour, minute or whatever value you want to insert.
+Automação para transferência de arquivos de um diretório para outro, rodando a cada X horas, minuto ou qualquer valor que você queira inserir.
